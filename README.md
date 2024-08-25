@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
+Just a guy who's into tech doing random things :)
 <!--
 **sidsenthilexe/sidsenthilexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
