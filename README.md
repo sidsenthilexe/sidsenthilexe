@@ -1,6 +1,7 @@
-## Hello there 👋
+# sidsenthilexe
 
-Just a guy who's into tech doing random things :)
+## Projects:
+[iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - creating a display piece using an old iPhone 6 for the 10th anniversary of the phone's release.
 <!--
 **sidsenthilexe/sidsenthilexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
