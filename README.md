@@ -1,7 +1,12 @@
 # sidsenthilexe
 
+* 🔭 I'm currently working on projects in [Gamemaker](https://gamemaker.io/en).
+* 🌱 I'm hoping to participate in a few hackathons in the near future.
+* ⚡ Fun fact: I have no idea what im doing.
+
 ## Projects:
-[iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - creating a display piece using an old iPhone 6 for the 10th anniversary of the phone's release.
+* [gamemaker-projects](https://github.com/sidsenthilexe/gamemaker-projects) - Practice projects in Gamemaker.
+* [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Creating a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
 <!--
 **sidsenthilexe/sidsenthilexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
