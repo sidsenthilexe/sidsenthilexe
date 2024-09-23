@@ -7,6 +7,11 @@
 ## Projects:
 * [gamemaker-projects](https://github.com/sidsenthilexe/gamemaker-projects) - Practice projects in Gamemaker.
 * [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Creating a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
+
+<!--
+There have been *1* unproductive days so far.
+-->
+
 <!--
 **sidsenthilexe/sidsenthilexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
