@@ -1,6 +1,6 @@
 # Hi, I'm sidsenthilexe
 
-* 🔭 I'm currently working on projects in Gamemaker.
+* 🔭 I'm currently working on projects and learning game development in Godot and Gamemaker.
 * 🌱 I'm hoping to participate in a few hackathons in the near future.
 * ⚡ Fun fact: I have no idea what im doing.
 
