@@ -2,6 +2,7 @@
 
 * 🔭 I'm currently working on learning game development in Godot and Gamemaker.
 * 🌱 I'm hoping to participate in a few hackathons in the near future.
+* 🚴 Cycling enthusiast
 * 🏫 Freshman at Fremont High School
 
 ## Experiences:
