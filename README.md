@@ -1,17 +1,22 @@
 # Hi, I'm Sid Senthil
 
-* 🔭 I'm currently working on projects and learning game development in Godot and Gamemaker.
+* 🔭 I'm currently working on learning game development in Godot and Gamemaker.
 * 🌱 I'm hoping to participate in a few hackathons in the near future.
-* ⚡ Fun fact: I have no idea what im doing.
+* 🏫 Freshman at Fremont High School
 
 ## Experiences:
-* Part of the Fremont High School Robotics team (FTC 26106 Emberbots 2024-)
+* Star Scout with Troop 476 of Cupertino
+  * Current leadership position: Webmaster
+  * Past leadership positions: Patrol Leader
+* Part of the Fremont High School Robotics team
+  * FTC 26106 Emberbots 2024-
 * Won an IEEE award for Technical Excellence with a project for the 2024 Synopsys Science Fair
+* Earned the ABRSM Performance Grade 4 for Piano, currently working on Performance Grade 6.
 
 ## Projects:
 * [godot-projects](https://github.com/sidsenthilexe/godot-projects) - Practice projects in Godot.
 * [gamemaker-projects](https://github.com/sidsenthilexe/gamemaker-projects) - Practice projects in Gamemaker.
-* [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Creating a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
+* Completed: [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
 
 <!--
 There have been *1* unproductive days so far.
