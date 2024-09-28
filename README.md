@@ -8,6 +8,7 @@
 * [godot-projects](https://github.com/sidsenthilexe/godot-projects) - Practice projects in Godot.
 * [gamemaker-projects](https://github.com/sidsenthilexe/gamemaker-projects) - Practice projects in Gamemaker.
 * [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Creating a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
+* Part of the Fremont High School Robotics team (Emberbots 2024-)
 
 <!--
 There have been *1* unproductive days so far.
