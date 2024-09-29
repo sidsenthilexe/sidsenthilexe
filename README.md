@@ -15,6 +15,7 @@
 * Earned the ABRSM Performance Grade 4 for Piano, currently working on Performance Grade 6.
 
 ## Projects:
+* [path-of-darkness](https://github.com/sidsenthilexe/sidsenthilexe/edit/main/README.md) - Godot game for 1-Bit Jam #4 (need to lock in)
 * [gamedev-projects](https://github.com/sidsenthilexe/gamedev-projects) - Practice projects in Godot and Gamemaker.
 * Completed: [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
 
