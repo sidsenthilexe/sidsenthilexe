@@ -15,8 +15,7 @@
 * Earned the ABRSM Performance Grade 4 for Piano, currently working on Performance Grade 6.
 
 ## Projects:
-* [godot-projects](https://github.com/sidsenthilexe/godot-projects) - Practice projects in Godot.
-* [gamemaker-projects](https://github.com/sidsenthilexe/gamemaker-projects) - Practice projects in Gamemaker.
+* [gamedev-projects](https://github.com/sidsenthilexe/gamedev-projects) - Practice projects in Godot and Gamemaker.
 * Completed: [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
 
 <!--
