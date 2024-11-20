@@ -7,8 +7,8 @@
 
 ## Experiences:
 * Star Scout with Troop 476 of Cupertino
-  * Current leadership position: Webmaster
-  * Past leadership positions: Patrol Leader
+  * Current leadership position: Assistant Senior Patrol Leader
+  * Past leadership positions: Webmaster, Patrol Leader
 * Part of the Fremont High School Robotics team
   * FTC 26106 Emberbots 2024-
 * Won an IEEE award for Technical Excellence with a project for the 2024 Synopsys Science Fair
