@@ -5,6 +5,7 @@
 * 🚴 Cycling enthusiast
 * 🏫 Freshman at Fremont High School
 
+<!---
 ## Experiences:
 * Star Scout with Troop 476 of Cupertino
   * Current leadership position: Assistant Senior Patrol Leader
@@ -13,9 +14,15 @@
   * FTC 26106 Emberbots 2024-
 * Won an IEEE award for Technical Excellence with a project for the 2024 Synopsys Science Fair
 * Earned the ABRSM Performance Grade 4 for Piano, currently working on Performance Grade 6.
+--->
+
+## Stats
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsenthilexe&theme=dark)](https://github.com/sidsenthilexe/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github)](https://github.com/sidsenthilexe/github-readme-stats)
 
 ## Current Projects:
-* [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for Emberbots 26106's 2024-2025 season
+* [text-analyzer](https://github.com/sidsenthilexe/text-analyzer) - Python app to analyze word count, readability, and more
+* [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for FTC Emberbots 26106's 2024-2025 season
 
 ## Completed Projects:
 * [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
