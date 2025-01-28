@@ -21,14 +21,16 @@
 [![](https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github)](https://github.com/sidsenthilexe/github-readme-stats)
 
 ## Current Projects:
-* [text-analyzer](https://github.com/sidsenthilexe/text-analyzer) - Python app to analyze word count, readability, and more
+
 * [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for FTC Emberbots 26106's 2024-2025 season
 
 ## Completed Projects:
-* [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
+* [text-analyzer](https://github.com/sidsenthilexe/text-analyzer) - Python app to analyze word count, readability, and more
+* [baneful-duality](https://github.com/sidsenthilexe/baneful-duality) - A platformer game for Counterspell! Winner of Counterspell Silicon Valley and finalist for global Counterspell.
 * [unit-converter](https://github.com/sidsenthilexe/unit-converter) - Simple Python app to convert between various units (with GUI)
 * [pig-latin](https://github.com/sidsenthilexe/pig-latin) - GUI based Python app to translate a string to Pig Latin
 * [pyweather](https://github.com/sidsenthilexe/pyweather) - Access an API to get the latest weather data
+* [iphone6-display-frame](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/README.md) - Created a display frame using an iPhone 6 for the 10th anniversary of its release. Also iPod Nano!
 
 
 <!--
