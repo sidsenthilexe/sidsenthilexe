@@ -21,7 +21,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github)](https://github.com/sidsenthilexe/github-readme-stats)
 
 ## Current Projects:
-
+* [books-api](https://github.com/sidsenthilexe/books-api) - A simple API with a database of books and authors.
 * [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for FTC Emberbots 26106's 2024-2025 season
 
 ## Completed Projects:
