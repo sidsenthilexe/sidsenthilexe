@@ -17,8 +17,7 @@
 --->
 
 ## Stats
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsenthilexe&theme=dark)](https://github.com/sidsenthilexe/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github)](https://github.com/sidsenthilexe/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsenthilexe&theme=dark" alt="most used languages stats" height="180"/> <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=533&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="hackatime stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github" height="180"/>
 
 ## Current Projects:
 * [books-api](https://github.com/sidsenthilexe/books-api) - A simple API with a database of books and authors.
