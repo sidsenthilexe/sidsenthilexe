@@ -1,9 +1,9 @@
 # Hi, I'm Sid Senthil
 
-* 🔭 I'm currently working on learning game development in Godot and Gamemaker.
-* 🌱 I'm hoping to participate in a few hackathons in the near future.
+* 🔭 I'm currently focusing on Java projects for AP CSA.
+* 🌱 I'm hoping to <del>participate in</del>win a few hackathons in the near future.
 * 🚴 Cycling enthusiast
-* 🏫 Freshman at Fremont High School
+* 🏫 Sophomore at Fremont High School
 
 <!---
 ## Experiences:
@@ -20,12 +20,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsenthilexe&theme=dark" alt="most used languages stats" height="180"/> <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=533&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="hackatime stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github" height="180"/>
 
 ## Current Projects:
-* [books-api](https://github.com/sidsenthilexe/books-api) - A simple API with a database of books and authors.
-* [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for FTC Emberbots 26106's 2024-2025 season
+* [prisoners-dilemma](https://github.com/sidsenthilexe/prisoners-dilemma) - A Prisoner's Dliemma game with both local multiplayer and matches against bots, based on Veritasium's great video [_What Game Theory Reveals About Conflict and War_](https://www.youtube.com/watch?v=mScpHTIi-kM).
+
+
 
 ## Completed Projects:
-* [text-analyzer](https://github.com/sidsenthilexe/text-analyzer) - Python app to analyze word count, readability, and more
 * [baneful-duality](https://github.com/sidsenthilexe/baneful-duality) - A platformer game for Counterspell! Winner of Counterspell Silicon Valley and finalist for global Counterspell.
+* [emberbots-2024-firstdive](https://github.com/sidsenthilexe/emberbots-2024-firstdive)- Software for FTC Emberbots 26106's 2024-2025 season
+* [text-analyzer](https://github.com/sidsenthilexe/text-analyzer) - Python app to analyze word count, readability, and more
+* [books-api](https://github.com/sidsenthilexe/books-api) - A simple API with a database of books and authors.
 * [unit-converter](https://github.com/sidsenthilexe/unit-converter) - Simple Python app to convert between various units (with GUI)
 * [pig-latin](https://github.com/sidsenthilexe/pig-latin) - GUI based Python app to translate a string to Pig Latin
 * [pyweather](https://github.com/sidsenthilexe/pyweather) - Access an API to get the latest weather data
