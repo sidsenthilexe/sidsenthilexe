@@ -1,8 +1,9 @@
 # Hi, I'm Sid Senthil
 
+* 💻 Officer for Fremont High School Hack Club.
 * 🔭 I'm currently focusing on Java projects for AP CSA.
 * 🌱 I'm hoping to <del>participate in</del>win a few hackathons in the near future.
-* 🚴 Cycling enthusiast
+* ⚙️ Software and Drive Team for FRC 3501 Firebots.
 * 🏫 Sophomore at Fremont High School
 
 <!---
