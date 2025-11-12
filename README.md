@@ -21,6 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsenthilexe&theme=dark" alt="most used languages stats" height="180"/> <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=533&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="hackatime stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sidsenthilexe&theme=dark&rank_icon=github" height="180"/>
 
 ## Current Projects:
+* [reactor](https://github.com/sidsenthilexe/reactor) - A nuclear reactor simulation based on Higgsino Physics' video [_Chernobyl Visually Explained_](https://www.youtube.com/watch?v=P3oKNE72EzU).
 * [prisoners-dilemma](https://github.com/sidsenthilexe/prisoners-dilemma) - A Prisoner's Dilemma game with both local multiplayer and matches against bots, based on Veritasium's great video [_What Game Theory Reveals About Conflict and War_](https://www.youtube.com/watch?v=mScpHTIi-kM).
 
 
